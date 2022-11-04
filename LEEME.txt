@@ -1,0 +1,3 @@
+En esta carpeta hay dos proyectos realizados con python. El primero consiste en la predicción de la temperatura y precipitación, 
+a partir de datos meteorológicos de una estación local, mediante Machine Learning. El segundo, también usaremos Machine Learning 
+(Modelo neuronal convolucional), es el reconocimiento de imágenes de nubes.
